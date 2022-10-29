@@ -106,7 +106,7 @@ const Cart: React.FC = () => {
             </span>
             <span>
               {' '}
-              Сума заказа: <b>{totalPrice} грн.</b>{' '}
+              Сума замовлення: <b>{totalPrice} грн.</b>{' '}
             </span>
           </div>
           <div className="cart__bottom-buttons">
