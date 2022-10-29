@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AcvatermFinish/static/css/main.f7afd9d0.css",
+    "main.js": "/AcvatermFinish/static/js/main.1e0df4fb.js",
+    "Cart.js": "/AcvatermFinish/static/js/Cart.e6eded96.chunk.js",
+    "FullPizza.js": "/AcvatermFinish/static/js/FullPizza.dc1e9443.chunk.js",
+    "static/media/empty-cart.png": "/AcvatermFinish/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "index.html": "/AcvatermFinish/index.html",
+    "static/media/logo2.svg": "/AcvatermFinish/static/media/logo2.2b7050a8c77babe3609f4f69f1a50157.svg",
+    "main.f7afd9d0.css.map": "/AcvatermFinish/static/css/main.f7afd9d0.css.map",
+    "main.1e0df4fb.js.map": "/AcvatermFinish/static/js/main.1e0df4fb.js.map",
+    "Cart.e6eded96.chunk.js.map": "/AcvatermFinish/static/js/Cart.e6eded96.chunk.js.map",
+    "FullPizza.dc1e9443.chunk.js.map": "/AcvatermFinish/static/js/FullPizza.dc1e9443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7afd9d0.css",
+    "static/js/main.1e0df4fb.js"
+  ]
+}
