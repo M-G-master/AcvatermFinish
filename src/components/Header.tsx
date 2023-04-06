@@ -27,7 +27,18 @@ export const Header: React.FC = () => {
             <img width="38" src={logoSvg} alt="Pizza logo" />
             <div>
               <h1>Будівельний мінімаркет "АКВАТЕРМ"</h1>
+
               <h3>м.Гадяч вул.Лохвитська 28 тел.0977255662 </h3>
+              <button>
+                <a href="/info/p1.mp3" download="vlada.mp3">
+                  СКАЧАТЬ
+                </a>
+              </button>
+              <button>
+                <a href="/info/p2.mp3" download="vlada.mp3">
+                  СКАЧАТЬ
+                </a>
+              </button>
             </div>
           </div>
         </Link>
